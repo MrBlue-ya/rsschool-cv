@@ -1,6 +1,1 @@
-# rsschool-cv
-
----
-
-Markdown & Git
-### https://mrblue-ya.github.io/rsschool-cv/cv
+https://mrblue-ya.github.io/rsschool-cv/cv
