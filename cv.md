@@ -41,3 +41,12 @@ function XO(str) {
     return xNumber.length === oNumber.length ;
 }
 ```
+
+---
+
+#### Languages
+
+* Russian
+* English
+
+---
