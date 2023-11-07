@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MrBlue-ya.github.io/rsschool-cv/cv
