@@ -36,7 +36,6 @@ hr {
     box-shadow: 0 0 5px 3px #2f2d2d, 0 0 13px #333;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    
     margin: 15px auto 0;
     padding: 10px;
 
@@ -45,7 +44,7 @@ hr {
 
 /* Header */
 
-.header__inner {    
+.header__inner {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -77,8 +76,7 @@ hr {
     font-family: monospace;
     margin-left: -180px;
     width: 1000px;
-    height: 250px;
-    
+    height: 200px;
 }
 
 .code {
@@ -90,7 +88,6 @@ hr {
 
 code {
     font-size: 20px;
-    
 }
 
 /* Footer */
